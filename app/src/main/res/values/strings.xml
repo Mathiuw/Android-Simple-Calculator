@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USCSApp</string>
+    <string name="enter_b">Enter b</string>
+    <string name="enter_a">Enter a</string>
+</resources>
